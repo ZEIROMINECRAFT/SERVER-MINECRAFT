@@ -209,3 +209,6 @@
 [27Nov2024 03:49:38.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (100.003s)! For help, type "help"
 [27Nov2024 03:49:39.017] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [27Nov2024 03:49:41.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[27Nov2024 04:08:10.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Nov2024 04:08:10.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Nov2024 04:08:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
